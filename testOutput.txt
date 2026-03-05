@@ -1,0 +1,18 @@
+Running property: insert then lookup
++++ OK, passed 100 tests.
+Running property: insert overwrites existing key
++++ OK, passed 100 tests.
+Running property: delete after insert should make lookup return Nothing
++++ OK, passed 100 tests.
+Running property: contains after insert
++++ OK, passed 100 tests.
+Running property: delete removes key
++++ OK, passed 100 tests.
++++ OK, passed 100 tests.
+Running property: isEmpty correctness
++++ OK, passed 100 tests.
+Property: clearing a dictionary results in an empty one
++++ OK, passed 100 tests.
+Property: listing inserted dictionary entries
++++ OK, passed 100 tests.
+Leaving GHCi.
